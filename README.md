@@ -1,6 +1,7 @@
 # speech-recognition-dl
 
-Prerequisites
+Prerequisites:
+
 Below are the prerequisites needed to reproduce the experiments performed while creating the SER FusionNet model. Required data and notebooks for the two experiments using RAVDESS and SER Superset performed is mentioned below.
 Note:
 ●	Ensure that the code is run as a Kaggle notebook as the data source links in the code are provided accordingly. This would also ensure that the high sized audio datasets need not be downloaded to local directory
